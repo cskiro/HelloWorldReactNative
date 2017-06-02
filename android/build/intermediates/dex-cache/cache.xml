@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_1376f25c8c7bff6edd64f7cb3a7c5893dda0a080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.2_3aa7fd782c0ab51e2fb7560d8043d2a4aababd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_3b16332ea98363a087f35e0d409a3dfaa8f05059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6eda8401c68eb6e4bd34300a40479f0e2b5eaf08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_f086c68e892da523e98204841a177d94abd1200b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_23ed00b6aff6f370fcde55d5081e7837c6756ca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_5d78a57a2e311ef094fae34fe124a1a62eebd4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_8c47003bf86e108ae4101fa75b9e5413b43120fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_a3c23b565f2c9bcd7d1d9cd142168139cda62250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_68eb2c5a21e9905624fbd0bc2fa9365692c76c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_4f7d7e8d72404c7d3b563b95d68b7c96dd6cac34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_ee79bf75cd4a3bcfa6db0a81e6b3cfe26ca8d06e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_787dcfd56467c71bf6327511ed014882d4ebe0f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_13401bc392e3cb996fb71f7795c0950fba4c5233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3a8868679c94e2609a28c27ead608091feca5c19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_5b1c7e9dded561a8e02948fecfbecb91c54be317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e1317c01508527535d00fabd7b8d0c16fea29617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_222be50769c36c51b542d207f2ad5cf5e7b0d212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_43bf3e63d3202f880bf177072ccdea11561c2523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_1075ddfc989ea8da532882f1fd337593c0cae0cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_597f186a7ced8544863bd4e6d8cabe69568336c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/skiroc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/skiroc/Developer/HelloWorldReactNative/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_8988a8441d0aa59a8073a176e128adbb6edf274c.jar" />
+    </item>
+
+</items>
